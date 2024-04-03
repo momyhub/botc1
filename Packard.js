@@ -1,0 +1,20 @@
+
+{
+  "name": "botc1",
+  "version": "1.0.0",
+  "description": "bot accueil ",
+  "main": "bot.js",
+  
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "lodash": "^4.17.21",
+    "node-schedule": "^1.3.2"
+  
+
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "solkah",
+  "license": "MIT"
+  }
