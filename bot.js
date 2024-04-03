@@ -10,7 +10,7 @@ bot.onText(/\/start/, (msg) => {
             inline_keyboard: [
                 [
                     { text: "Télécharger l'apk ⬇️", callback_data: 'download_apk' }
-{ text: "rejoindre le canal",  '@solkah00' }
+               { text: 'join le canal', url: 'https://t.me/+Ncc7iXHIo-EzMGY8' },
 
                 ]
             ]
